@@ -19,7 +19,7 @@ body {
     font-family: 'Nunito', sans-serif;
     font-size: 20px;
   }
-  #mainHeading {
+  #ma3inHeading {
   
     color:red;
   }
@@ -59,7 +59,7 @@ body {
   }
   
   li:last-child {
-  border-right: none;
+  border-right: none;cd 
   }
   
   li a {
@@ -67,7 +67,7 @@ body {
   color: #a01010;
   font: 16px/1 Helvetica, Verdana, sans-serif;
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight : bold;
   
   }
   
